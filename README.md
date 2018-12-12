@@ -1,1 +1,1 @@
-# anti-course
+# anti
